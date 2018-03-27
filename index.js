@@ -13,3 +13,12 @@ while (j<arr.length){
   j += 1
 }return arr
 }
+function iLoveTheBeatles(num){
+  var arr = []
+  var i = 0
+  do {
+    arr.push("I love the Beatles!")
+    i++
+  }
+  while {i<15}
+}
