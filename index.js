@@ -16,6 +16,6 @@ function johnLennonFacts(arr){
 var i = 0
 while (i<arr.length){
   arr[i] += "!!!"
-  i++ 
+  i += 1 
 }
 }
